@@ -1,1 +1,1 @@
-# First project created by myself :D
+# My first HTML&CSS project
